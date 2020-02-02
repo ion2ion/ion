@@ -1,0 +1,13 @@
+{
+  "google":{
+     "richResponse":{
+        "items":[
+           {
+              "simpleResponse":{
+                 "textToSpeech":"Hello World!"
+              }
+           }
+        ]
+     }
+  }
+}
